@@ -7,7 +7,7 @@ This is a web application that allows a user to purchase movie tickets from the 
 
 ## Live Page
 
-https://khalid-zein.github.io/flatdango/
+https://al-hajjar.github.io/flatdangocodechallenge/
 
 ## installation
 
@@ -15,7 +15,7 @@ https://khalid-zein.github.io/flatdango/
 
 2. git clone        
 
-        git@github.com:khalid-zein/flatdango.git
+        https://github.com/al-hajjar/flatdangocodechallenge
 
 3. flatdango
 
@@ -36,8 +36,8 @@ https://khalid-zein.github.io/flatdango/
 3. [Javascript](https://)
 
 ## Screenshot of live page
-<img src ="./img/screenshot1.png">
-<img src ="./img/screenshot2.png">
+<img src ="./img/screenshot1.jpeg">
+<img src ="./img/screenshot2.jpeg">
 
 ## BDD
 
@@ -48,14 +48,8 @@ https://khalid-zein.github.io/flatdango/
 
 ## Author:
 
-[Khalid Zein](https:yueyyt)
+[Kidhri Salim](https:yueyyt)
 
-
-## Contact
-
-+254794794734
-
-Email: zeinkhalid004@gmail.com
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
